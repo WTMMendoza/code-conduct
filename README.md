@@ -1,12 +1,12 @@
 # Política contra el acoso
 
-Por eso tenemos una política oficial contra el acoso de los eventos y actividades del GDG/ WTM Mendoza?
+Por eso tenemos una política oficial contra el acoso de los eventos y actividades del Python Mendoza| Pyladies Mendoza?
 
 - Establecer las expectativas de comportamiento en el evento. Sólo tienen una política contra el acoso con el fin de luchar contra el acoso.
 - Alentar a las personas que han tenido una mala experiencia anterior de no dejar de participar en las actividades.
 - Proporciona instrucciones voluntarios sobre cómo lidiar con el acoso rápidamente, con la mínima interrupción a las actividades.
 
-El GDG/ WTM Mendoza se dedica a proporcionar una experiencia de acoso evento gratis para todos, con independencia de:
+El Python Mendoza | Pyladies Mendoza se dedica a proporcionar una experiencia de acoso evento gratis para todos, con independencia de:
 - género
 - Orientación sexual
 - la discapacidad
@@ -36,7 +36,7 @@ Socios expositoras y oradores invitados también están sujetos a la política a
 
 Si usted está siendo acosado, observe que alguien está siendo acosado, o cualquier otra inquietud, organizador de contactos o voluntario de inmediato. Los organizadores investigar el problema y tomar las medidas adecuadas. Esto puede incluir ayuda a los participantes a ponerse en contacto con la seguridad local o la policía local, proporcionar servicios de acompañantes, o ayudar a aquellos que experimentan el acoso se sienta seguro durante la duración del evento.
 
-Contacto: wtmmendoza@gmail.com / gdgmendoza@gmail.com
+Contacto: pythonmendoza@gmail.com | pyladiesmdz@gmail.com
 
 Aunque esperamos que nunca tenemos que invocar esta política, creemos que el tener este documento ayuda a todos a pensar un poco más acerca de cómo sus acciones y palabras afectan a toda la comunidad, así como individuos en la comunidad.
 
@@ -46,9 +46,9 @@ Esta política se encuentra bajo la licencia Creative Commons Zero. Esta políti
 
 Tiene alguna sugerencia para insertamos en la política? Háganoslo saber.
 
-GDG MENDOZA| WOMEN TECHMAKERS MENDOZA
+PYTHON MENDOZA| PYLADIES MENDOZA
 
-Abril, 2017
+Maio, 2017
 
 
  
