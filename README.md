@@ -1,6 +1,6 @@
 # Política contra el acoso
 
-Por eso tenemos una política oficial contra el acoso de los eventos y actividades del Python Mendoza| Pyladies Mendoza
+Política oficial contra el acoso de los eventos y actividades del Python Mendoza| Pyladies Mendoza
 
 - Establecer las expectativas de comportamiento en el evento. Sólo tienen una política contra el acoso con el fin de luchar contra el acoso.
 - Alentar a las personas que han tenido una mala experiencia anterior de no dejar de participar en las actividades.
@@ -54,7 +54,7 @@ Maio, 2017
 
 # Anti-Harassment Policy
 
-That's why we have an official policy against the harassment of events and activities of Python Mendoza | Pyladies Mendoza
+Oficial policy against the harassment of events and activities of Python Mendoza | Pyladies Mendoza
 
 - Establish expectations of behavior in the event. They only have a policy against harassment in order to fight harassment.
 - Encourage people who have had a previous bad experience not to stop participating in activities.
